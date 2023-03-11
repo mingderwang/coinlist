@@ -1,0 +1,14 @@
+{
+  "name": "coinlist",
+  "version": "1.0.1",
+  "main": "api/index.js",
+  "author": "Ming-der Wang",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^10.0.1"
+  },
+  "scripts": {
+    "start": "micro",
+    "deploy": "vercel deploy"
+  }
+}
